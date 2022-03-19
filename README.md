@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcarr10
-- 👀 I’m interested in all things database
+- 👀 I’m interested in all things database related
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python projets
 - 📫 How to reach me ...
